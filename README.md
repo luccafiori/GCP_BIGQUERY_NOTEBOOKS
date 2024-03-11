@@ -1,2 +1,3 @@
-# GCP_BIGQUERY_NOTEBOOKS
-Python notebooks analysis for BQ queries
+# GCP - BIGQUERY NOTEBOOKS
+
+Python fast notebooks using google colab to analysis BQ queries 
